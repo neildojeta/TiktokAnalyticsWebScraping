@@ -14,9 +14,9 @@
             "shop_1_image_2.png",
             "shop_1_image_3.png"
         ],
-        "Revenue": "$8.01m",
+        "Revenue": "$8.03m",
         "Revenue Trend": "revenue_trend_1.png",
-        "Average Unit Price": "$30.35"
+        "Average Unit Price": "$30.34"
     },
     {
         "Rank": 2,
@@ -33,9 +33,9 @@
             "shop_2_image_5.png",
             "shop_2_image_6.png"
         ],
-        "Revenue": "$7.51m",
+        "Revenue": "$7.47m",
         "Revenue Trend": "revenue_trend_2.png",
-        "Average Unit Price": "$36.52"
+        "Average Unit Price": "$36.39"
     },
     {
         "Rank": 3,
@@ -45,16 +45,16 @@
         "Best Sellers": [
             "Crocs Women's Getaway Strappy Sandals, Beach Sandals",
             "Crocs Women's Miami Toe Loop Sandals, Lightweight Strappy Sandals for the Pool and Beach",
-            "Crocs Women's Brooklyn Low Wedge, Wedge Sandals for Women"
+            ""
         ],
         "Best Seller Images": [
             "shop_3_image_7.png",
             "shop_3_image_8.png",
             "shop_3_image_9.png"
         ],
-        "Revenue": "$6.08m",
+        "Revenue": "$6.04m",
         "Revenue Trend": "revenue_trend_3.png",
-        "Average Unit Price": "$40.93"
+        "Average Unit Price": "$41.07"
     },
     {
         "Rank": 4,
@@ -62,18 +62,18 @@
         "Name": "vevor store",
         "Type": "BRAND",
         "Best Sellers": [
+            "Crocs Women's Brooklyn Low Wedge, Wedge Sandals for Women",
             "VEVOR Retractable Hose Reel, Max 130 FT Garden Water Hose Reel with 9-Pattern Nozzle, 180° Swivel Bracket Wall-Mounted, Automatic Rewind, Lock at Any Length, with Slow Return System Springtok",
-            "VEVOR Push Lawn Sweeper, 26 Inch Leaf & Grass Collector, Strong Rubber Wheels & Heavy Duty Thickened Steel Durable to Use with Large Capacity 7 ft³ Mesh Collection Bag, 4 Spinning Brushes",
-            "VEVOR Push Lawn Sweeper 21-Inch Leaf & Grass Collector with 3.5 cu. ft. Mesh Collection Hopper Bag, 2 Spinning Brushes & Strong Rubber Wheels"
+            "VEVOR Push Lawn Sweeper, 26 Inch Leaf & Grass Collector, Strong Rubber Wheels & Heavy Duty Thickened Steel Durable to Use with Large Capacity 7 ft³ Mesh Collection Bag, 4 Spinning Brushes"
         ],
         "Best Seller Images": [
             "shop_4_image_10.png",
             "shop_4_image_11.png",
             "shop_4_image_12.png"
         ],
-        "Revenue": "$5.39m",
+        "Revenue": "$5.31m",
         "Revenue Trend": "revenue_trend_4.png",
-        "Average Unit Price": "$60.34"
+        "Average Unit Price": "$60.45"
     },
     {
         "Rank": 5,
@@ -81,18 +81,18 @@
         "Name": "Goli Nutrition",
         "Type": "BRAND",
         "Best Sellers": [
+            "VEVOR Push Lawn Sweeper 21-Inch Leaf & Grass Collector with 3.5 cu. ft. Mesh Collection Hopper Bag, 2 Spinning Brushes & Strong Rubber Wheels",
             "3 Bottles of Goli Ashwagandha & Vitamin D Gummy - Mixed Berry, KSM-66, Vegan, Plant Based, Non-GMO, Gluten & Gelatin Free",
-            "3 Bottles of Goli New Year New Me Bundle: Ashwagandha KSM-66, Apple Cider Vinegar, Matcha Mind supplement with Cognizin, Vitamins D2 and B12 Healthcare Dietary",
-            "Goli Ashwagandha & Vitamin D Gummy - Mixed Berry, KSM-66, Vegan, Plant Based, Non-GMO, Gluten-Free & Gelatin Free. America's #1 Ashwagandha Brand"
+            "3 Bottles of Goli New Year New Me Bundle: Ashwagandha KSM-66, Apple Cider Vinegar, Matcha Mind supplement with Cognizin, Vitamins D2 and B12 Healthcare Dietary"
         ],
         "Best Seller Images": [
             "shop_5_image_13.png",
             "shop_5_image_14.png",
             "shop_5_image_15.png"
         ],
-        "Revenue": "$5.36m",
+        "Revenue": "$5.26m",
         "Revenue Trend": "revenue_trend_5.png",
-        "Average Unit Price": "$25.02"
+        "Average Unit Price": "$24.97"
     },
     {
         "Rank": 6,
@@ -100,18 +100,18 @@
         "Name": "Comfrt",
         "Type": "BRAND",
         "Best Sellers": [
+            "Goli Ashwagandha & Vitamin D Gummy - Mixed Berry, KSM-66, Vegan, Plant Based, Non-GMO, Gluten-Free & Gelatin Free. America's #1 Ashwagandha Brand",
             "Comfrt | Cloud Tee",
-            "Comfrt | Cloud Zip Oversized Hoodie | For Stress & Anxiety",
-            "Comfrt | Cloud Shorts"
+            "Comfrt | Cloud Zip Oversized Hoodie | For Stress & Anxiety"
         ],
         "Best Seller Images": [
             "shop_6_image_16.png",
             "shop_6_image_17.png",
             "shop_6_image_18.png"
         ],
-        "Revenue": "$5.04m",
+        "Revenue": "$4.97m",
         "Revenue Trend": "revenue_trend_6.png",
-        "Average Unit Price": "$36.41"
+        "Average Unit Price": "$36.74"
     },
     {
         "Rank": 7,
@@ -119,18 +119,18 @@
         "Name": "Drink Nello",
         "Type": "BRAND",
         "Best Sellers": [
+            "Comfrt | Cloud Shorts",
             "Nello Supercalm – Calming Drink Mix with KSM-66 Ashwagandha, Vitamin D3, Magnesium & L-Theanine – Supports Cortisol Balance, Mood & Sleep, Helps Manage Occasional Stress – Travel Packets (20 Servings)",
-            "Supercalm Best Selling Flavors Bundle (2-Pack)",
-            "Nello Supercalm Tub (2-Pack)"
+            "Supercalm Best Selling Flavors Bundle (2-Pack)"
         ],
         "Best Seller Images": [
             "shop_7_image_19.png",
             "shop_7_image_20.png",
             "shop_7_image_21.png"
         ],
-        "Revenue": "$4.70m",
+        "Revenue": "$4.74m",
         "Revenue Trend": "revenue_trend_7.png",
-        "Average Unit Price": "$41.97"
+        "Average Unit Price": "$42.15"
     },
     {
         "Rank": 8,
@@ -138,18 +138,18 @@
         "Name": "Micro Ingredients",
         "Type": "BRAND",
         "Best Sellers": [
+            "Nello Supercalm Tub (2-Pack)",
             "Micro Ingredients Oregano Oil with Black Seed Oil",
-            "Micro Ingredients Multi Collagen Peptides Powder - Hydrolyzed Protein Peptides (Type I,II,III,V,X) with Hyaluronic Acid, Biotin & Vitamin C",
-            "Micro Ingredients Hyaluronic Acid Powder, DIY Facial Serum, Skin Hydration Care Formula"
+            "Micro Ingredients Multi Collagen Peptides Powder - Hydrolyzed Protein Peptides (Type I,II,III,V,X) with Hyaluronic Acid, Biotin & Vitamin C"
         ],
         "Best Seller Images": [
             "shop_8_image_22.png",
             "shop_8_image_23.png",
             "shop_8_image_24.png"
         ],
-        "Revenue": "$4.48m",
+        "Revenue": "$4.45m",
         "Revenue Trend": "revenue_trend_8.png",
-        "Average Unit Price": "$27.34"
+        "Average Unit Price": "$27.31"
     },
     {
         "Rank": 9,
@@ -157,16 +157,16 @@
         "Name": "Brainista",
         "Type": "RETAILER",
         "Best Sellers": [
+            "Micro Ingredients Hyaluronic Acid Powder, DIY Facial Serum, Skin Hydration Care Formula",
             "Yerba Magic | Yerba Mate Instant Tea Powder | 20 or 30 Serving Options",
-            "Sleepytime Hot Chocolate, Melatonin Free, 8 Supplements to Support Rest: Sugar Free, Dairy Free, and Vegan Hot Cocoa",
-            "Yerba Magic | Yerba Mate Capsules | 60 Capsules"
+            "Sleepytime Hot Chocolate, Melatonin Free, 8 Supplements to Support Rest: Sugar Free, Dairy Free, and Vegan Hot Cocoa"
         ],
         "Best Seller Images": [
             "shop_9_image_25.png",
             "shop_9_image_26.png",
             "shop_9_image_27.png"
         ],
-        "Revenue": "$4.07m",
+        "Revenue": "$4.08m",
         "Revenue Trend": "revenue_trend_9.png",
         "Average Unit Price": "$30.08"
     },
@@ -176,17 +176,17 @@
         "Name": "Halara US",
         "Type": "BRAND",
         "Best Sellers": [
+            "Yerba Magic | Yerba Mate Capsules | 60 Capsules",
             "Halara 2-Piece Super High Waisted Back Pocket & Side Hidden Pocket 2-in-1 Yoga Shorts Set 5''-Longer Length # Springtok",
-            "Halara SoCinched High Waisted Tummy Control Side Pocket Shaping Training Leggings#Springtok",
-            "Halara Women's SoCinched High Waisted Scrunch Butt Lifting Tummy Control Side Pocket Training UltraSculpt Leggings No Front Crotch Seam#springtok"
+            "Halara SoCinched High Waisted Tummy Control Side Pocket Shaping Training Leggings#Springtok"
         ],
         "Best Seller Images": [
             "shop_10_image_28.png",
             "shop_10_image_29.png",
             "shop_10_image_30.png"
         ],
-        "Revenue": "$3.88m",
+        "Revenue": "$3.89m",
         "Revenue Trend": "revenue_trend_10.png",
-        "Average Unit Price": "$32.78"
+        "Average Unit Price": "$32.89"
     }
 ]

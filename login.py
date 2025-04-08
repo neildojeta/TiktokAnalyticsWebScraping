@@ -5,6 +5,7 @@ from playwright.async_api import async_playwright
 from config import ConfigManager
 from scrape_shops import extract_shop_data 
 from scrape_creators import extract_creator_data
+from scrape_products import extract_product_data
 
 config_manager = ConfigManager()
 url = config_manager.url
@@ -54,11 +55,15 @@ async def run():
 
         # Scrape Shop Data
         print("Navigating to shop data...")
-        await extract_shop_data(page)
+        # await extract_shop_data(page)
 
         # Scrape Creator Data
         print("Navigating to creator data...")
         # await extract_creator_data(page)
+
+        # Scrape Product Data
+        print("Navigating to product data...")
+        await extract_product_data(page)
         
         await browser.close()
 
